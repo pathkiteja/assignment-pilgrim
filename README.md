@@ -37,7 +37,7 @@ This repository contains my completed Power BI Assignment II as requested. The t
 
 ## Demo Screenshot
 
-![Demo Image](demo.img)
+![Demo Image](demo.png)
 
 ## How to Use
 
