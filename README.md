@@ -20,7 +20,7 @@ This repository contains my completed Power BI Assignment II as requested. The t
 1. **Data Preparation & Cleaning**:
    - Loaded the dataset into Power BI.
    - Removed duplicates and handled missing values.
-   - Created a calculated column for Net Profit (Revenue - Expenses).
+   - Created a calculated column for Net Profit (Revenue - Expenses)............
 
 2. **Data Visualization**:
    - Created a **Monthly Trend Analysis** visualization showing Revenue vs Expenses.
